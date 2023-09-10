@@ -7,7 +7,7 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13">English</a></td></tr>
- <tr><td><a href="README_ru.md"><img src="images/ru-flag.png" height="13">Russian</a></td></tr>
+ <tr><td><a href="README_ru.md"><img src="images/ru-flag.png" height="13">Русский</a></td></tr>
 </table>
 
 ### 👾 &nbsp;About Me
