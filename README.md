@@ -89,8 +89,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<hr>
-
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=romka-best&show_icons=true&count_private=true&theme=shadow_red&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=romka-best&layout=compact&hide_border=true&theme=shadow_red&bg_color=00000000&langs_count=6">
