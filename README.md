@@ -92,9 +92,9 @@
 <hr>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=romka-best&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=romka-best&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=romka-best&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=romka-best&show_icons=true&count_private=true&theme=shadow_red&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=romka-best&layout=compact&hide_border=true&theme=shadow_red&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=romka-best&theme=shadow-red&hide_border=true&background=FFFFFF00">
 </p>
 
 <hr>
