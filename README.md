@@ -87,6 +87,12 @@
 ### ⚡ Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML       4 mins          ███████████████████░░░░░░   75.96 %
+Markdown   1 min           ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
