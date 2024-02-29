@@ -89,11 +89,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           4 hrs           ███████████████████████▓░   94.76 %
-Text             11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-EditorConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
