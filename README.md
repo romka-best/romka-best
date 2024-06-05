@@ -89,11 +89,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             19 hrs 49 mins  ████████████████████████▒   97.68 %
-Text               27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-textmate           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Docker             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python             17 hrs 10 mins  ████████████████████████▓   98.28 %
+Text               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Requirements.txt   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
