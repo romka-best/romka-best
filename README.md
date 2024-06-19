@@ -12,9 +12,9 @@
 
 ### 👾 About Me
 
-&nbsp;&nbsp;&nbsp;🛠 &nbsp;Coding since 2018 with 2+ years of experience in Frontend Development\
+&nbsp;&nbsp;&nbsp;🛠 &nbsp;Coding since 2018 with 3+ years of experience in Frontend Development\
 &nbsp;&nbsp;&nbsp;💼 &nbsp;Previously worked at [Yandex](https://ya.ru/) as a Frontend Engineer\
-&nbsp;&nbsp;&nbsp;💼 &nbsp;Currently working as a Web Development Team Lead at [SelfTable](https://www.selftable.com/)\
+&nbsp;&nbsp;&nbsp;💼 &nbsp;Currently working as a Frontend Engineer at [Wanderboar](https://wanderboat.ai)\
 &nbsp;&nbsp;&nbsp;🚨 &nbsp;I am fond of psychology and troublehacking\
 &nbsp;&nbsp;&nbsp;🎾 &nbsp;I play tennis on weekends\
 &nbsp;&nbsp;&nbsp;☝️ &nbsp;I know how to prioritize correctly not only in tasks, but also in life\
