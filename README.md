@@ -89,11 +89,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         35 hrs 42 mins  ███████████████████████▒░   93.40 %
-Python             1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Text               11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-textmate           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Requirements.txt   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript         43 hrs 30 mins  ███████████████████████▓░   94.41 %
+Python             1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Text               11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+textmate           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Requirements.txt   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
