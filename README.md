@@ -89,11 +89,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             9 hrs 6 mins    ███████████████████████▓░   94.67 %
-Text               23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Requirements.txt   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-PythonStub         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python             9 hrs 2 mins    ████████████████████▓░░░░   83.01 %
+TypeScript         1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+Text               23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Requirements.txt   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+JSON               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
