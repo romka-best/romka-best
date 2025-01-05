@@ -11,12 +11,12 @@
 
 ### 👾 About Me
 
-&nbsp;&nbsp;&nbsp;🛠 &nbsp;**Coding Journey:** Started coding in 2018, with over 3 years of commercial experience specializing in Frontend Development\
-&nbsp;&nbsp;&nbsp;💼 &nbsp;**Career Highlights:** Previously worked at [Yandex](https://ya.ru/), [SelfTable](https://selftable.com) and [Wanderboat AI](https://wanderboat.ai) as a Frontend Engineer\
+&nbsp;&nbsp;&nbsp;🛠 &nbsp;**Coding since 2018:** 3+ years of commercial experience specializing in Frontend Development\
+&nbsp;&nbsp;&nbsp;💼 &nbsp;**Work Experience:** Previously at [Yandex](https://ya.ru/), [SelfTable](https://selftable.com) and [Wanderboat AI](https://wanderboat.ai) as a Frontend Engineer\
 &nbsp;&nbsp;&nbsp;🚨 &nbsp;**Passions:** I am fond of psychology and troublehacking\
 &nbsp;&nbsp;&nbsp;🎾 &nbsp;**Sport:** I play tennis on weekends\
 &nbsp;&nbsp;&nbsp;☝️ &nbsp;**Life Skills:** I know how to prioritize correctly not only in tasks, but also in life\
-&nbsp;&nbsp;&nbsp;🇺🇸 &nbsp;**Silicon Valley, USA:** Residing in one of the world’s leading tech hubs
+&nbsp;&nbsp;&nbsp;🇺🇸 &nbsp;**Based in Silicon Valley, USA:** Residing in one of the world’s leading tech hubs
 
 <hr>
 
