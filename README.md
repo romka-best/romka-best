@@ -12,7 +12,8 @@
 ### 👾 About Me
 
 &nbsp;&nbsp;&nbsp;🛠 &nbsp;**Coding since 2018:** 3+ years of commercial experience specializing in Frontend Development\
-&nbsp;&nbsp;&nbsp;💼 &nbsp;**Work Experience:** Previously at [Yandex](https://ya.ru/), [SelfTable](https://selftable.com) and [Wanderboat AI](https://wanderboat.ai) as a Frontend Engineer\
+&nbsp;&nbsp;&nbsp;💼 &nbsp;**Previous Work Experience:** Frontend Engineer at [Yandex](https://ya.ru/), FullStack Engineer at [SelfTable](https://selftable.com), and Frontend Engineer at [Wanderboat AI](https://wanderboat.ai)\
+&nbsp;&nbsp;&nbsp;🏒 &nbsp;**Current Work Experience:** Growth Engineer at [HockeyStack](https://www.hockeystack.com/)\
 &nbsp;&nbsp;&nbsp;🚨 &nbsp;**Passions:** I am fond of psychology and troublehacking\
 &nbsp;&nbsp;&nbsp;🎾 &nbsp;**Sport:** I play tennis on weekends\
 &nbsp;&nbsp;&nbsp;☝️ &nbsp;**Life Skills:** I know how to prioritize correctly not only in tasks, but also in life\
