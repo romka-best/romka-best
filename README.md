@@ -44,10 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON             0 secs          █████████████▓░░░░░░░░░░░   54.78 %
-TypeScript       0 secs          ██████████▓░░░░░░░░░░░░░░   42.23 %
-JavaScript       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
