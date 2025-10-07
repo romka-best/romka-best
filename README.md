@@ -44,9 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text               13 mins         █████████████████████████   99.81 %
-Python             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
