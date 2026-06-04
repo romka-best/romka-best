@@ -11,9 +11,9 @@
 
 ### 👾 About Me
 
-&nbsp;&nbsp;&nbsp;🛠 &nbsp;**Coding since 2018:** 3+ years of commercial experience specializing in Frontend Development\
+&nbsp;&nbsp;&nbsp;🛠 &nbsp;**Coding since 2018:** 5+ years of commercial experience specializing in Frontend Development\
 &nbsp;&nbsp;&nbsp;💼 &nbsp;**Previous Work Experience:** Frontend Engineer at [Yandex](https://ya.ru/) and [Wanderboat AI](https://wanderboat.ai), FullStack Engineer at [SelfTable](https://selftable.com)\
-&nbsp;&nbsp;&nbsp;🏒 &nbsp;**Current Work Experience:** Growth Engineer at [HockeyStack](https://www.hockeystack.com/)\
+&nbsp;&nbsp;&nbsp;🏒 &nbsp;**Current Work Experience:** Software Engineer at [HockeyStack](https://www.hockeystack.com/)\
 &nbsp;&nbsp;&nbsp;🚨 &nbsp;**Passions:** I am fond of psychology and troublehacking\
 &nbsp;&nbsp;&nbsp;🎾 &nbsp;**Sport:** I play tennis on weekends\
 &nbsp;&nbsp;&nbsp;☝️ &nbsp;**Life Skills:** I know how to prioritize correctly not only in tasks, but also in life\
@@ -40,14 +40,6 @@
 <hr>
 
 ### ⚡ Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=romka-best&show_icons=true&count_private=true&theme=shadow_red&hide_border=true&hide=issues,contribs&bg_color=00000000">

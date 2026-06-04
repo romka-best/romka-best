@@ -11,9 +11,9 @@
 
 ### 👾 &nbsp;Обо мне
 
-&nbsp;&nbsp;&nbsp;🛠 &nbsp;Кодю с далекого 2018 года с 3+ лет опыта во фронтенд-разработке\
+&nbsp;&nbsp;&nbsp;🛠 &nbsp;Кодю с далекого 2018 года с 5+ лет опыта во фронтенд-разработке\
 &nbsp;&nbsp;&nbsp;💼 &nbsp;Работал в [Яндексе](https://ya.ru/), [SelfTable](https://selftable.com) и [Wanderboat](https://wanderboat.ai) в качестве разработчика интерфейсов\
-&nbsp;&nbsp;&nbsp;🏒 &nbsp;Работаю в [HockeyStack](https://www.hockeystack.com/) в качестве Growth Engineer\
+&nbsp;&nbsp;&nbsp;🏒 &nbsp;Работаю в [HockeyStack](https://www.hockeystack.com/) в качестве Software Engineer\
 &nbsp;&nbsp;&nbsp;🚨 &nbsp;Увлекаюсь психологией и траблхакингом\
 &nbsp;&nbsp;&nbsp;🎾 &nbsp;Играю в теннис по выходным\
 &nbsp;&nbsp;&nbsp;☝️ &nbsp;Знаю как расставлять приоритеты не только в тасках, но и в жизни\
@@ -40,9 +40,6 @@
 <hr>
 
 ### ⚡ Статистика
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=romka-best&show_icons=true&count_private=true&theme=shadow_red&hide_border=true&hide=issues,contribs&bg_color=00000000">
